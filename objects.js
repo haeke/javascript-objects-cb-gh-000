@@ -1,5 +1,5 @@
 
 var playlist = {
   NERD: 'ESP',
-  NERD: 'Kites',
+  Kendrick: 'DNA',
 }
